@@ -1,1 +1,1 @@
-# enterprise-rag-project
+# RAG Model for an Enterprise. 
