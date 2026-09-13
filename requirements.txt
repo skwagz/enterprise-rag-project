@@ -1,0 +1,50 @@
+## --Core app - tools 
+streamlit
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+
+# ----- langchain ecosystem -----
+langchain 
+langchain-community 
+langchain-huggingface 
+langchain-groq 
+langgraph 
+
+# ----- Embeddings / models -----
+sentence-transformers 
+huggingface-hub
+torch
+
+# ----- vector store -----
+chromadb 
+
+# ----- Requirements/ reranking -----
+rank-BM25
+scikit-learn
+
+# ----- Documents ingestion -----
+pypdf
+unstructured 
+pytesseract
+pdf2image 
+pillow 
+pandas 
+openpyxl
+camelot-py
+
+## --- Guardrails ----
+presidio-analyzer 
+presidio-anonymizer 
+
+
+# ---- Evaluation/ monitoring -----
+ragas 
+datasets
+prometheus-client
+
+# --- utilities --- 
+tenacity
+loguru
